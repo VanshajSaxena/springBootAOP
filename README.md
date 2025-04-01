@@ -1,11 +1,10 @@
 >  A Simple AspectJ Aspect Oriented Programming Project
 
----
 
-This has helped me learn about Aspect Oriented Programming and how frameworks
-like Spring and AspectJ leverage Java's Reflection and Proxying capabilities to
-provide a clean and modular way to separate cross-cutting concerns from the
-core business logic.
+Aspect Oriented Programming and how frameworks like Spring and AspectJ leverage
+Java's Reflection and Proxying capabilities to provide a clean and modular way
+to separate cross-cutting concerns from the core business logic.
+
 
 ``` shell
 src
